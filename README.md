@@ -1,1 +1,4 @@
-# YouTube-Video-Summarizer-using-Gemini-AI
+- A simple app that extracts YouTube video transcripts and summarizes them using Google Gemini AI.  
+- Built with Python, Streamlit, Google Gemini AI, and YouTube Transcript API.  
+- Enter a YouTube link, click the button, and get a concise summary instantly.  
+- Easy setup—install dependencies, add your Google API key in a `.env` file, and run the app.  
