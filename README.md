@@ -15,20 +15,20 @@ The goal is to identify patterns in news headlines that can distinguish fake new
 ## 🧠 Project Components
 
 ### 1. **Exploratory Data Analysis & Preprocessing**
-Performed in the notebook `Fake_news_preprocessing.ipynb`, this step involves:
+
 - Cleaning and standardizing text
 - Visualizing word frequencies and class distributions
 - Tokenization, stopword removal, and label encoding
 
 ### 2. **Analysis & Feature Engineering**
-Detailed in `fake news Analysis.ipynb`, this section explores:
+
 - N-gram patterns
 - Word clouds for fake and real headlines
 - Statistical feature extraction
 - Insights into how fake and real headlines differ linguistically
 
 ### 3. **Deep Learning with LSTM**
-Implemented in `fake news headline LSTM.ipynb`:
+
 - A Bi-directional LSTM model is trained on the processed text
 - Embedding layers and sequence padding used for input
 - Model is evaluated using accuracy and confusion matrix
